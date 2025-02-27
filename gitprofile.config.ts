@@ -172,7 +172,7 @@ const CONFIG = {
      class="text-primary" href="https://github.com/SargeJoseph"
      target="_blank"
      rel="noreferrer"
-     ></a> `,
+     >toilemaitre</a> `,
   enablePWA: true,
 };
 
