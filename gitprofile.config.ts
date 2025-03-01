@@ -118,7 +118,7 @@ const CONFIG = {
     snippetVersion: 6,
   },
   themeConfig: {
-    defaultTheme: 'Night',
+    defaultTheme: 'synthwave',
     disableSwitch: false,
     respectPrefersColorScheme: false,
     displayAvatarRing: false,
